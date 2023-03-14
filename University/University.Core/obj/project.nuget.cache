@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAGQD09OJi853R+O1g671YzHIyb88t936NFCYVSm7irO395MBk6lfhYIjyDHgpcXmPx0Nn2PGEzmEN6Fl45yrg==",
+  "success": true,
+  "projectFilePath": "D:\\Projs\\University\\University.Core\\University.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aria System\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

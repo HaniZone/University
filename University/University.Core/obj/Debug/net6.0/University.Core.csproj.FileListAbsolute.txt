@@ -1,0 +1,12 @@
+D:\Projs\University\University.Core\bin\Debug\net6.0\University.Core.deps.json
+D:\Projs\University\University.Core\bin\Debug\net6.0\University.Core.dll
+D:\Projs\University\University.Core\bin\Debug\net6.0\ref\University.Core.dll
+D:\Projs\University\University.Core\bin\Debug\net6.0\University.Core.pdb
+D:\Projs\University\University.Core\obj\Debug\net6.0\University.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\University\University.Core\obj\Debug\net6.0\University.Core.AssemblyInfoInputs.cache
+D:\Projs\University\University.Core\obj\Debug\net6.0\University.Core.AssemblyInfo.cs
+D:\Projs\University\University.Core\obj\Debug\net6.0\University.Core.csproj.CoreCompileInputs.cache
+D:\Projs\University\University.Core\obj\Debug\net6.0\University.Core.dll
+D:\Projs\University\University.Core\obj\Debug\net6.0\ref\University.Core.dll
+D:\Projs\University\University.Core\obj\Debug\net6.0\University.Core.pdb
+D:\Projs\University\University.Core\obj\Debug\net6.0\University.Core.csproj.AssemblyReference.cache
